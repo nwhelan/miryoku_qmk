@@ -8,5 +8,5 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["fingerpunch/ffkb/byomcu/v2"]'
-      merge: '["sadekbaroudi/qmk_firmware"]'
+      keyboard: '["fingerpunch/ffkb/byomcu/v3"]'
+      merge: '["sadekbaroudi/qmk_firmware/develop_fingerpunch"]'
